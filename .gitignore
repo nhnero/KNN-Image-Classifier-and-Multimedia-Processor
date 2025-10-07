@@ -1,0 +1,10 @@
+# Ignore large or temporary files
+Archive.zip
+*.zip
+*.tar
+*.gz
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
